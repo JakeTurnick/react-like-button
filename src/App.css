@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .App-logo {
@@ -35,4 +37,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+}
+
+button {
+  padding: 5%;
+  margin: auto auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-size: 2rem;
+}
+
+.reset {
+  background-color: hsl(0, 30%, 70%);
+}
+
+.addLike {
+  background-color: hsl(240, 40%, 60%);
 }
