@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-like-button/static/css/main.073c9b0a.css",
-    "main.js": "/react-like-button/static/js/main.a433c677.js",
+    "main.js": "/react-like-button/static/js/main.129d0918.js",
     "static/js/787.2428fb39.chunk.js": "/react-like-button/static/js/787.2428fb39.chunk.js",
     "static/media/logo.svg": "/react-like-button/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-like-button/index.html",
     "main.073c9b0a.css.map": "/react-like-button/static/css/main.073c9b0a.css.map",
-    "main.a433c677.js.map": "/react-like-button/static/js/main.a433c677.js.map",
+    "main.129d0918.js.map": "/react-like-button/static/js/main.129d0918.js.map",
     "787.2428fb39.chunk.js.map": "/react-like-button/static/js/787.2428fb39.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a433c677.js"
+    "static/js/main.129d0918.js"
   ]
 }
